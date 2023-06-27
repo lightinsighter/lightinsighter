@@ -4,7 +4,7 @@ import { NavbarConfig } from "./navbar.js";
 export default hopeTheme({
   favicon: "/favicon.png",
   logo: "/favicon.png",
-  hostname: "https://lightinsighter.github.io/",
+  hostname: "https://mytools.lightinsighter.vercel.app/",
   iconAssets: [
     "https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.0/css/all.min.css",
   ],
@@ -41,7 +41,7 @@ export default hopeTheme({
     avatar: "/favicon.png",
     roundAvatar: true,
     description: "公众号：浅见AI (全网同名) ，专注于互联网技术与AI算法。",
-    intro: "https://lightinsighter.github.io/",
+    intro: "https://mytools.lightinsighter.vercel.app/",
     medias: {
       Github: "https://github.com/lightinsighter",
       BiliBili: "https://space.bilibili.com/3493291456727316",
