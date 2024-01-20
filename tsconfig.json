@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "moduleResolution": "NodeNext",
+    "module": "NodeNext",
     "target": "ES2020"
   },
-  "include": ["./docs/.vuepress/**/*.ts", "docs/.vuepress/config.js"]
+  "include": ["./sites/.vuepress/**/*.ts", "sites/.vuepress/config.ts"]
 }
